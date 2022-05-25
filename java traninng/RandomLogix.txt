@@ -1,0 +1,41 @@
+while(n<=0){
+           n=n/10;
+           count++;
+       }
+
+import java.util.Scanner;
+
+public class rotation {
+    public static void main(String[] args) {
+        int n=12345;
+        int p=0;
+        int s=0;
+        int count=0;
+        int r=new Scanner(System.in).nextInt();
+       
+       
+         if(r<0){
+            r=-1*r;
+
+            for(int i=1;i<=r;i++){
+                
+                  p=(int) (n%Math.pow(10, r));
+                   s=(int) (n/Math.pow(10, r));
+                 }
+                 System.out.println(p+""+s);
+                }
+            else{
+                for(int i=1;i<=r;i++){
+                p=(int) (n%Math.pow(10, r));
+                s=(int) (n/Math.pow(10, r));
+            }
+            System.out.println((int)(p*Math.pow(10,r )+s));
+        }
+        }
+        
+        
+        
+       
+    }
+    
+

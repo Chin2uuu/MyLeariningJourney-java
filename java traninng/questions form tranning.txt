@@ -1,0 +1,20 @@
+Date:-21/02/22
+1. Write a program to find the second largest no from three ?
+2. What is difference between return and break statement ?
+
+
+Date:-22/02/22
+3. 1+1/2+1/3+1/4........n print the series ?
+4. Compute power of a number (ex:-2^5=32) ?
+5. 1^1+2^2+3^3+..........n print sum of Series along     with series ?
+
+
+Date:-23/02/22
+6. Count digit in a number by taking input from user?(Hint:- using modules operator)
+7. Sum of the digits of number?(ex:- 123=1+2+3)
+8. Print Digit of a Number?(ex:-123 output= 1,2,3)
+9. Print Revrse of number?(ex:-123 ans= 321)
+10. Print Pailindrome?
+
+
+
